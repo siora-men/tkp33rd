@@ -24,7 +24,7 @@
     color: #fff;
     cursor:pointer;
     border:blue 2px solid;
-    padding:2% 5%;
+    padding:2% 15%;
 }
 .go-out:hover{
     background-color:#fff;
@@ -58,9 +58,10 @@ h1{
     text-align:center;
 }
 #imageSelect{
-    margin: 0 auto;
+    margin: 20px auto;
     display: block;
     padding: 20px 5px;
     font-size: 20px;
     text-align: center;
 }
+
