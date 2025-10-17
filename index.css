@@ -1,0 +1,55 @@
+.image{
+    max-height: 50vh;
+    max-width: 80%;
+}
+
+.result{
+    text-align: center;
+    width: 90%;
+    margin:20px auto;
+    border:3px solid gray;
+    padding:2%;
+}
+.omedeto-wrapper{
+    display: flex;
+    justify-content: center;
+    gap:5px;
+}
+
+.go-out{
+    display: block;
+    margin: 20px auto;
+    font-size: 20px;
+    background-color: blue;
+    color: #fff;
+    cursor:pointer;
+    border:blue 2px solid;
+    padding:2% 5%;
+}
+.go-out:hover{
+    background-color:#fff;
+    color:blue;
+}
+p{
+    margin:0;   
+}
+.tsukapi{
+    font-size: 140%;
+    color:red;
+    font-weight: bold;
+}
+.sender-name{
+    font-size: 120%;
+    font-weight: bold;
+}
+.sender{
+    margin-bottom: 15px;    
+    background-color: antiquewhite;
+    width: fit-content;
+    margin: 20px auto 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+h1{
+    text-align: center;
+}
