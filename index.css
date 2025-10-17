@@ -11,9 +11,9 @@
     padding:2%;
 }
 .omedeto-wrapper{
-    display: flex;
-    justify-content: center;
-    gap:5px;
+    width:fit-content;
+    padding:5%;
+    margin:0 auto;
 }
 
 .go-out{
@@ -52,4 +52,5 @@ p{
 }
 h1{
     text-align: center;
+
 }
