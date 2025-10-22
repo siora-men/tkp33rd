@@ -66,4 +66,8 @@ h1{
     text-align: center;
 }
 
+.big-size-letter{
+    font-size:130%;
+    font-weight:bold;
+}
 
